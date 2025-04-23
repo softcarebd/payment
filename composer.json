@@ -1,0 +1,18 @@
+{
+    "name": "softcarebd/payment",
+    "description": "My Fast Pakage",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Softcarebd\\Payment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "softcarebd",
+            "email": "softcarebd705@gmail.com"
+        }
+    ],
+    "require": {}
+}
